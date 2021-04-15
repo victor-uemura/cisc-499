@@ -1,0 +1,3 @@
+[submodule "cliff-api-client"]
+	path = cliff-api-client
+	url = https://github.com/victor-uemura/cliff-api-client
