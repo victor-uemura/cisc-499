@@ -18,6 +18,7 @@ This script takes the original messages and removes tags and puts messages into 
 
 ./relevantInfo/core_message_posts.csv --> ./cleanData/clean_core_message_posts.csv
 
+#### The next files are located in the ./cliff-api-client folder
 ### two.py
 
 Takes untagged messages and splits them by sentence and then looks for location identifiers. put all statements w locations into a new sheet.
